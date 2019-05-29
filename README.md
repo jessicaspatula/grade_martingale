@@ -28,5 +28,5 @@ monitor the output
 in a web browser, navigate to the submissions/ directory and then to each student's index.html file
 You will see the following arrangement:
 
-![][demo.png?raw=true]
+![](demo.png?raw=true)
 
