@@ -3,12 +3,12 @@
 you'll want to modify the following lines to remove all student records that you are not grading. this will allow the script to run much faster
 
 
-'''
+```
 rm submissions/[a-q]*
 rm submissions/r[a-n]*
 rm submissions/s[p-z]*
 rm submissions/[t-z]*
-'''
+```
 
 ## run the script
 
@@ -17,7 +17,7 @@ move the zip file into the same directory as process.sh
 make sure you have execute permission for process.sh
 then run
 
-''' ./process.sh '''
+``` ./process.sh ```
 
 monitor the output 
 
@@ -28,5 +28,5 @@ monitor the output
 in a web browser, navigate to the submissions/ directory and then to each student's index.html file
 You will see the following arrangement:
 
-![][demo.png]
+![][demo.png?raw=true]
 
