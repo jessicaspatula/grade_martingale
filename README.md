@@ -21,9 +21,10 @@ rm submissions/[t-z]*
 
 ## run the script
 
-Download the bulk project submissions.zip file from Canvas
-move the zip file into the same directory as process.sh
-make sure you have execute permission for process.sh
+* Download the bulk project submissions.zip file from Canvas
+* move the zip file into the same directory as process.sh
+* make sure you have execute permission for process.sh
+
 then run
 
 ``` ./process.sh ```
@@ -37,6 +38,7 @@ monitor the output
 ## view student submission
 
 in a web browser, navigate to the submissions/ directory and then to each student's index.html file
+
 You will see the following arrangement:
 
 ![](demo.png?raw=true)
